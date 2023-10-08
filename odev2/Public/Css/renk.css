@@ -1,13 +1,13 @@
 #div1{background-color: yellow;
-    }
-body{position:absolute; left:10px; 
-    top:20px;
-    float:left; float:right;
-    clear:left;
-    opacity:0.9;
-    Overflow:scroll;
-    box-shadow: 3px gray;
-    filter:blur(.5px);
-    
-   
+}
+body{position:absolute;left: 100px; 
+top: 200px;
+float:left; float:right;
+clear:left;
+opacity:0.99;
+Overflow:scroll;
+box-shadow: 3px gray;
+filter:blur(.5px);
+
+
 }
