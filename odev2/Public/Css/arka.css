@@ -6,13 +6,14 @@ body{background: url(../İmage/sky.jpg);
     background-position: center;
 }
 .homework h1{
+    
     border-style: solid;
     border-color: red;
     
     border-radius: 10px;
     font-size: 70px;
     font-weight: bold;
-    width: 900px;
+    width: 700px;
     text-align: center;
 
 }
