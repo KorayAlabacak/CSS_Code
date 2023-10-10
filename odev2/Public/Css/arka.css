@@ -1,7 +1,18 @@
-body{background-color: purple;
-    background-image:url(../İmage/resim.jpg);
-    background-size:auto;
-    background-repeat:repeat;
+body{background: url(../İmage/sky.jpg);
+    height: 100vh;
+    background-size:100% 100%;
+    background-repeat:no-repeat;
     background-attachment:fixed;
     background-position: center;
+}
+.homework h1{
+    border-style: solid;
+    border-color: red;
+    
+    border-radius: 10px;
+    font-size: 70px;
+    font-weight: bold;
+    width: 900px;
+    text-align: center;
+
 }

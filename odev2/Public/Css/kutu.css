@@ -1,15 +1,13 @@
-#div1{Width:1000px;
-    height: 950px; 
-    Border-color:red;   
- 
 
-    }
-    body{
-        
-        padding:3px;
-        padding-bottom:3px;
-        Border-style:solid;
-        Border-color:red;
-        Border-width:10px;
-        Border-radius:10px;
-    }
+.code{Width:900px;
+    height: 885px; 
+    padding:3px;
+    padding-bottom:3px;
+    Border-style:solid;
+    Border-color:red;
+    Border-width:5px;
+    Border-radius:10px;
+
+}
+
+    
